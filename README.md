@@ -91,16 +91,6 @@ Creating responsive, engaging interfaces with modern UI frameworks and interacti
 ---
 
 
-## Dev Quote
-
-<div align="center">
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -112,11 +102,9 @@ Creating responsive, engaging interfaces with modern UI frameworks and interacti
 
 </div>
 
----
 
 <div align="center">
 
-[esawi.dev](https://esawi.dev)
 
 <br>
 

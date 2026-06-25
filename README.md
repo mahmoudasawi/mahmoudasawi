@@ -27,6 +27,28 @@
 
 ---
 
+## Key Achievements
+
+<div align="center">
+
+### Ranked in the Top 10 most active GitHub users in Jordan
+
+### Chairman of the IEEE Computer Society Chapter 
+
+### Awarded Best Graduation Project at TTU 2026
+
+### Participated in IEEE XTREME 19.0 Programming Competition 
+
+### Participated in Fintech Rally 2025 Hackathon
+
+### Delivered Training Workshops at Tafila Technical University
+
+
+
+</div>
+
+---
+
 ## What I Do
 
 <div align="center">

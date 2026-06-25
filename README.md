@@ -27,31 +27,7 @@
 
 ---
 
-## Key Achievements
 
-<div align="center">
-
-`Ranking` &nbsp;**Top 10 Most Active GitHub Users in Jordan**
-
-<br>
-
-`Leadership` &nbsp;**Chairman of the IEEE Computer Society Chapter**
-
-<br>
-
-`Award` &nbsp;**Best Graduation Project @ TTU 2026**
-
-<br>
-
-`Competition` &nbsp;**IEEE Xtreme 19.0 Competitive Programmer**
-
-<br>
-
-`Hackathon` &nbsp;**Fintech Rally 2025 Team Competitor**
-
-</div>
-
----
 
 ## What I Do
 

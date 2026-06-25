@@ -2,7 +2,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/jordan_private/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_private/MahmoudEsawi)
 
-# Hi, I'm Mahmoud Esawi
+# Hi, I'm Mahmoud Esawi · محمود العيسوي
 
 ### Full-Stack Engineer | Problem Solver
 
@@ -20,7 +20,7 @@
 
 ### Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 </div>
@@ -79,6 +79,7 @@ Creating responsive, engaging interfaces with modern UI frameworks and interacti
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-esawi.dev-00D9FF?style=flat&logo=vercel&logoColor=white)](https://esawi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MahmoudEsawi)
@@ -88,6 +89,10 @@ Creating responsive, engaging interfaces with modern UI frameworks and interacti
 ---
 
 <div align="center">
+
+[esawi.dev](https://esawi.dev)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 

@@ -1,92 +1,65 @@
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/jordan_private/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_private/MahmoudEsawi)
+# Mahmoud Esawi · محمود العيسوي
+### Full-Stack Software Engineer
 
-# 🌌 Mahmoud Esawi · محمود العيسوي
+```
+ASP.NET Core + Azure  //  MERN + Next.js
+```
 
-### ── ⚡ 𝖥𝗎𝗅𝗅-𝖲𝗍𝖺𝖼 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 // Cybernetic Architect ⚡ ──
-
-[![Portfolio](https://img.shields.io/badge/esawi.dev-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0A0E17&color=0A0E17)](https://esawi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0A0E17&color=0A0E17)](https://linkedin.com/in/Mahmoud-Esawi)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0A0E17&color=0A0E17)](mailto:esawi@ieee.org)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=INITIATING+SESSION+2026...;ASP.NET+Core+%2B+Azure+Ecosystem;MERN+%2B+Next.js+Architect;IEEE+CS+TTU+Chairman;Scanning+for+job+opportunities...;SYSTEM+STATUS%3A+OPEN+FOR+WORK)](https://git.io/typing-svg)
+[Portfolio](https://esawi.dev) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/Mahmoud-Esawi) &nbsp;•&nbsp; [Email](mailto:esawi@ieee.org)
 
 </div>
 
 ---
 
-### 📊 SYSTEM DIAGNOSTICS
+### Profile
+
+*   **Dual-Ecosystem Expertise:** Designing scalable backends with ASP.NET Core and Node.js; building fluid interfaces with React, Next.js, and Angular.
+*   **Leadership:** Chairman of the IEEE Computer Society Chapter at TTU, organizing tech workshops and coordinating student activities.
+*   **Community:** Ranked in the Top 10 most active GitHub users in Jordan.
+*   **Status:** Open for Full-Stack Software Engineering roles.
+
+---
+
+### Activity
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0A0E17)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
-### 🔮 IDENTITY DECRYPTED
+### Technology Stack
 
-```json
-{
-  "operator": "Mahmoud Esawi (محمود العيسوي)",
-  "specialization": "Dual-Ecosystem Software Architecture",
-  "environments": {
-    "enterprise": "ASP.NET Core + Azure Cloud Infrastructure",
-    "rapid_delivery": "MERN Stack + Next.js Serverless"
-  },
-  "guild_role": "Chairman, IEEE Computer Society Chapter at TTU",
-  "location": "Amman, Jordan",
-  "global_rank": "Top 10 most active GitHub users in Jordan",
-  "status": "OPEN_TO_WORK // Accepting job opportunities"
-}
+```
+Languages             C#, TypeScript, JavaScript, C++, Python
+Frameworks & Libraries React, Next.js, Angular, Three.js, ASP.NET Core, Express
+Databases             MongoDB, SQL Server, PostgreSQL, MySQL, Firebase
+Cloud & DevOps        Azure, Docker, Git, GitHub Actions, Vercel, Netlify
 ```
 
-*   📡 **Dual-Ecosystem Architect:** Operating at the intersection of enterprise robustness (.NET/Azure) and rapid web development (Next.js/React).
-*   🌐 **Community Coordinator:** Leading the IEEE Computer Society Chapter at Tafila Technical University, cultivating the next generation of engineers.
-*   🗝️ **Seeking Node:** Looking to integrate into a new engineering team. Open for software development opportunities.
-
 ---
 
-### 🛠️ CYBERNETIC TOOLKIT
+### Selected Projects
 
-<div align="center">
+#### **Mooneh.ai** — *Smart Grocery & AI Shopping Assistant*
+*   Best Graduation Project, TTU 2026.
+*   Node.js, MongoDB, Gemini AI, Socket.io, Telegram Bot API.
+*   Developed a bilingual AI assistant using Gemini 2.5 Flash for natural language shopping list creation and fridge photo analysis. Integrates a real-time admin dashboard with live order tracking.
 
-#### **Primary Protocols & Runtimes**
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,py,cpp&theme=dark)](https://skillicons.dev)
+#### **IEEE CS TTU Chapter Website**
+*   Vanilla JS, Three.js, CSS.
+*   Implemented an optimized 3D hero scene with zero framework overhead, delivering a lightweight payload under 80KB for high-speed performance on mobile networks.
 
-#### **UI & Interaction Layers**
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,threejs&theme=dark)](https://skillicons.dev)
-
-#### **Storage & Service Nodes**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,firebase&theme=dark)](https://skillicons.dev)
-
-#### **Deployment & Cloud Nodes**
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,postman,figma&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-### 📁 CLASSIFIED PROJECTS
-
-*   🛡️ **[Mooneh.ai](https://esawi.dev)** — *AI Shopping Assistant & Fridge Multi-modal Analyzer*
-    *   *Award:* 🥇 Best Graduation Project, TTU 2026
-    *   *Core:* Node.js, MongoDB, Gemini 2.5 Flash, Socket.io, Telegram Bot.
-*   🌌 **[IEEE CS TTU Web Node](https://csttu.jo.ieee.org)** — *Chapter Portal*
-    *   *Core:* Vanilla JS, Three.js 3D rendering engine, optimized payload (<80KB).
-*   💾 **The Assemblers** — *B2B Industrial Components Node*
-    *   *Core:* ASP.NET Core 9, Angular 18, SQL Server, Azure.
+#### **The Assemblers** — *B2B Industrial Components Marketplace*
+*   ASP.NET Core 9, Angular 18, SQL Server, Azure.
+*   Architected a secure corporate marketplace utilizing Azure cloud services for reliable deployment.
 
 ---
 
 <div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
+  <sub>"Code is like humor. When you have to explain it, it's bad." – Cory House</sub>
 </div>

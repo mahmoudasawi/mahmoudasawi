@@ -1,99 +1,59 @@
-<div align="center">
+# Mahmoud Esawi · محمود العيسوي
+### **Full-Stack Software Engineer** 🚀
 
-[![committers.top badge](https://user-badge.committers.top/jordan_private/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_private/MahmoudEsawi)
+Building robust production applications across two ecosystems: **ASP.NET Core + Azure** for enterprise-grade solutions, and **MERN / Next.js** for high-velocity delivery.
 
-# Hi, I'm Mahmoud Esawi · محمود العيسوي
-
-### 🚀 Full-Stack Engineer | Problem Solver
-
-[![Portfolio](https://img.shields.io/badge/esawi.dev-00D9FF?style=flat&logo=vercel&logoColor=white)](https://esawi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Eat.+Sleep.+Code.+Repeat.;From+UI%2FUX+to+Database;Always+learning+new+tech;C%23+%26+.NET+Developer;React+%26+Node.js+Developer)](https://git.io/typing-svg)
-
-<br>
-
-Building across two ecosystems — ASP.NET Core + Azure for production, MERN for rapid delivery.  
-💼 **Open for new job opportunities!**
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
-
-### 📚 **Currently Learning**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
-</p>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-esawi.dev-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://esawi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
 
 ---
 
-## 🛠️ What I Do
+## 💼 Professional Profile & Leadership
 
-<div align="center">
-
-### 💻 **Full-Stack Development**
-Modern web apps with cutting-edge technologies.
-
-### 🌐 **Cloud & APIs**
-Secure REST APIs, database design, and deployment.
-
-### 🎨 **UI/UX Design**
-Sleek interfaces using modern design tools.
-
-</div>
+*   **Dual-Ecosystem Expertise:** Designing scalable backends with ASP.NET Core and Node.js; building fluid interfaces with React, Next.js, and Angular.
+*   **Leadership:** Chairman of the **IEEE Computer Society Chapter at TTU**, organizing tech workshops and coordinating student activities.
+*   **Community:** Ranked among the **Top 10 most active GitHub users in Jordan**.
+*   **Open Opportunities:** Currently looking for Full-Stack Software Engineering roles.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-<div align="center">
-
-### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,ts,py" />
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,threejs" />
-
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,flask,fastapi,firebase" />
-
-### **Cloud & Tools**
-<img src="https://skillicons.dev/icons?i=netlify,vercel,azure,docker,git,postman,figma,notion" />
-
-</div>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `C#`, `TypeScript`, `JavaScript`, `C++`, `Python` |
+| **Backend & Databases** | `.NET (ASP.NET Core)`, `Node.js`, `Express`, `MSSQL`, `MongoDB`, `PostgreSQL` |
+| **Frontend & UI** | `React`, `Next.js`, `Angular`, `TypeScript`, `TailwindCSS`, `Three.js` |
+| **Cloud & DevOps** | `Azure`, `Docker`, `Git`, `CI/CD (GitHub Actions)`, `Vercel`, `Netlify` |
 
 ---
 
+## 🚀 Key Projects
 
-## 💡 **Dev Quote**
+### 🌟 **[Mooneh.ai](https://esawi.dev)** — *Smart Grocery & AI Shopping Assistant*
+*   **Award:** 🥇 Best Graduation Project, TTU 2026.
+*   **Tech Stack:** Node.js, MongoDB, Gemini AI, Socket.io, Telegram Bot API.
+*   **Highlights:** Built a bilingual AI assistant using Gemini 2.5 Flash for natural language shopping list creation and fridge photo analysis. Integrates a real-time admin dashboard with live order tracking.
 
-<div align="center">
+### 🌐 **[IEEE CS TTU Chapter Website](https://csttu.jo.ieee.org)**
+*   **Tech Stack:** Vanilla JS, Three.js, CSS.
+*   **Highlights:** Implemented an optimized 3D hero scene with zero framework overhead, delivering a lightweight payload under 80KB for high-speed performance on mobile networks.
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
+### 🏢 **The Assemblers** — *B2B Industrial Components Marketplace*
+*   **Tech Stack:** ASP.NET Core 9, Angular 18, SQL Server, Azure.
+*   **Highlights:** Architected a secure corporate marketplace utilizing Azure cloud services for reliable deployment.
 
 ---
 
-## 🌐 **Let's Connect**
+## 📈 GitHub Activity
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MahmoudEsawi)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117" alt="Mahmoud's GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-
+  <sub>"Code is like humor. When you have to explain it, it's bad." – Cory House</sub>
 </div>

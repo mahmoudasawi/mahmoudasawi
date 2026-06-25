@@ -31,19 +31,13 @@
 
 <div align="center">
 
-### Ranked in the Top 10 most active GitHub users in Jordan
-
-### Chairman of the IEEE Computer Society Chapter 
-
-### Awarded Best Graduation Project at TTU 2026
-
-### Participated in IEEE XTREME 19.0 Programming Competition 
-
-### Participated in Fintech Rally 2025 Hackathon
-
-### Delivered Training Workshops at Tafila Technical University
-
-
+```
+» RANKING     Top 10 Most Active GitHub Users in Jordan
+» LEADERSHIP  Chairman of the IEEE Computer Society Chapter
+» AWARD       Best Graduation Project @ TTU 2026
+» CODE        IEEE Xtreme 19.0 Competitive Programmer
+» HACKATHON   Fintech Rally 2025 Competitor
+```
 
 </div>
 

@@ -18,11 +18,32 @@
 
 ---
 
-### 🌟 About Me
-*   🤖 **Dual-Ecosystem Engineer:** Building production-grade apps with `.NET & Azure`, and rapid-delivery platforms with `MERN / Next.js`.
-*   🎓 **IEEE Leadership:** Chairman of the **IEEE Computer Society Chapter at TTU**, managing events and leading a community of tech builders.
-*   🏆 **Top Rank:** Ranked in the **Top 10 most active GitHub users in Jordan**.
-*   💼 **Opportunities:** **Currently open for new roles!** Let's build something awesome together.
+### 📊 Github Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+### 🌌 About Me
+
+```yaml
+professional_summary:
+  ecosystems: [ "ASP.NET Core + Azure", "MERN Stack + Next.js" ]
+  focus_areas:  [ "Scalable backend systems", "High-velocity web apps", "AI integrations" ]
+  leadership:   "Chairman, IEEE Computer Society Chapter at TTU"
+  rankings:     "Top 10 most active GitHub users in Jordan"
+  availability: "Active / Open for job opportunities 💼"
+```
+
+*   🤖 **Dual-Ecosystem Engineer:** Architecting production-ready backend infrastructure on Azure with C#/.NET while building responsive, interactive frontend experiences using React/Next.js.
+*   👥 **Tech Community Leader:** Serving as the IEEE CS Chairman at Tafila Technical University, guiding student developers and orchestrating tech meetups.
+*   🚀 **Open to Work:** Eager to join a forward-thinking development team. Let's build something extraordinary!
 
 ---
 
@@ -55,18 +76,6 @@
     *   Interactive 3D hero scene built using vanilla JS and Three.js, lightweight payload (<80KB).
 *   **The Assemblers** — *B2B Component Marketplace*
     *   Built using ASP.NET Core 9, Angular 18, SQL Server, and Azure.
-
----
-
-### 📊 Github Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
